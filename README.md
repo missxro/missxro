@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63b90503-92ff-4c4d-9d82-23c14148c15d" alt="Rocío del Pilar Felipe" />
+  <img width="255px" alt="Rocío del Pilar Felipe" src="https://github.com/user-attachments/assets/66264d4e-5537-4e47-9995-a5d494be33e0" />
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
